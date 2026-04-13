@@ -1,0 +1,273 @@
+{
+  "shape": {
+    "rows": 16306439,
+    "cols": 43
+  },
+  "missing": {
+    "Code service CH": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "Reference document": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "1 Articles CGI": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "2 Articles CGI": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "3 Articles CGI": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "4 Articles CGI": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "5 Articles CGI": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "Identifiant local": {
+      "count": 16306439,
+      "pct": 100.0
+    },
+    "Surface Carrez du 5eme lot": {
+      "count": 16302611,
+      "pct": 99.98
+    },
+    "Surface Carrez du 4eme lot": {
+      "count": 16297431,
+      "pct": 99.94
+    },
+    "5eme lot": {
+      "count": 16277237,
+      "pct": 99.82
+    },
+    "Surface Carrez du 3eme lot": {
+      "count": 16272366,
+      "pct": 99.79
+    },
+    "No Volume": {
+      "count": 16257536,
+      "pct": 99.7
+    },
+    "4eme lot": {
+      "count": 16244412,
+      "pct": 99.62
+    },
+    "3eme lot": {
+      "count": 16125284,
+      "pct": 98.89
+    },
+    "Surface Carrez du 2eme lot": {
+      "count": 15962272,
+      "pct": 97.89
+    },
+    "B/T/Q": {
+      "count": 15599468,
+      "pct": 95.66
+    },
+    "Prefixe de section": {
+      "count": 15590414,
+      "pct": 95.61
+    },
+    "Nature culture speciale": {
+      "count": 15573027,
+      "pct": 95.5
+    },
+    "2eme lot": {
+      "count": 15224162,
+      "pct": 93.36
+    },
+    "Surface Carrez du 1er lot": {
+      "count": 14935193,
+      "pct": 91.59
+    },
+    "1er lot": {
+      "count": 11223014,
+      "pct": 68.83
+    },
+    "Nombre pieces principales": {
+      "count": 7379926,
+      "pct": 45.26
+    },
+    "Surface reelle bati": {
+      "count": 7379926,
+      "pct": 45.26
+    },
+    "Code type local": {
+      "count": 7367631,
+      "pct": 45.18
+    },
+    "Type local": {
+      "count": 7367631,
+      "pct": 45.18
+    },
+    "Type de voie": {
+      "count": 6889208,
+      "pct": 42.25
+    },
+    "No voie": {
+      "count": 6672305,
+      "pct": 40.92
+    },
+    "Nature culture": {
+      "count": 5150709,
+      "pct": 31.59
+    },
+    "Surface terrain": {
+      "count": 5150709,
+      "pct": 31.59
+    },
+    "Valeur fonciere": {
+      "count": 188526,
+      "pct": 1.16
+    },
+    "Code postal": {
+      "count": 151082,
+      "pct": 0.93
+    },
+    "Code voie": {
+      "count": 150170,
+      "pct": 0.92
+    },
+    "Voie": {
+      "count": 150391,
+      "pct": 0.92
+    },
+    "Section": {
+      "count": 525,
+      "pct": 0.0
+    }
+  },
+  "critical_missing": {
+    "Date mutation": 0,
+    "Nature mutation": 0,
+    "Valeur fonciere": 188526,
+    "Code postal": 151082,
+    "Commune": 0,
+    "Code departement": 0
+  },
+  "duplicates": {
+    "full_duplicates": 638222,
+    "key_duplicates": 7519223,
+    "deal_duplicates": 4494590
+  },
+  "outliers": {
+    "No disposition": {
+      "q1": 1.0,
+      "q3": 1.0,
+      "iqr": 0.0,
+      "lower_fence": 1.0,
+      "upper_fence": 1.0,
+      "outlier_count": 1057118,
+      "outlier_pct": 6.48,
+      "min": 1.0,
+      "max": 1271.0
+    },
+    "Valeur fonciere": {
+      "q1": 60000.0,
+      "q3": 267840.0,
+      "iqr": 207840.0,
+      "lower_fence": -251760.0,
+      "upper_fence": 579600.0,
+      "outlier_count": 1553424,
+      "outlier_pct": 9.64,
+      "min": 0.01,
+      "max": 2086000000.0
+    },
+    "Code commune": {
+      "q1": 74.0,
+      "q3": 299.0,
+      "iqr": 225.0,
+      "lower_fence": -263.5,
+      "upper_fence": 636.5,
+      "outlier_count": 329831,
+      "outlier_pct": 2.02,
+      "min": 1.0,
+      "max": 909.0
+    },
+    "No plan": {
+      "q1": 88.0,
+      "q3": 512.0,
+      "iqr": 424.0,
+      "lower_fence": -548.0,
+      "upper_fence": 1148.0,
+      "outlier_count": 1251082,
+      "outlier_pct": 7.67,
+      "min": 1.0,
+      "max": 9814.0
+    },
+    "Surface Carrez du 1er lot": {
+      "q1": 34.06,
+      "q3": 73.41,
+      "iqr": 39.35,
+      "lower_fence": -24.96,
+      "upper_fence": 132.44,
+      "outlier_count": 48009,
+      "outlier_pct": 3.5,
+      "min": 0.01,
+      "max": 9999.0
+    },
+    "Surface Carrez du 2eme lot": {
+      "q1": 43.21,
+      "q3": 76.44,
+      "iqr": 33.23,
+      "lower_fence": -6.63,
+      "upper_fence": 126.28,
+      "outlier_count": 10035,
+      "outlier_pct": 2.92,
+      "min": 0.1,
+      "max": 8928.0
+    },
+    "Surface Carrez du 3eme lot": {
+      "q1": 39.22,
+      "q3": 86.45,
+      "iqr": 47.23,
+      "lower_fence": -31.62,
+      "upper_fence": 157.3,
+      "outlier_count": 1883,
+      "outlier_pct": 5.53,
+      "min": 0.28,
+      "max": 8284.0
+    },
+    "Surface Carrez du 4eme lot": {
+      "q1": 34.3,
+      "q3": 100.26,
+      "iqr": 65.96,
+      "lower_fence": -64.65,
+      "upper_fence": 199.21,
+      "outlier_count": 574,
+      "outlier_pct": 6.37,
+      "min": 0.34,
+      "max": 6947.85
+    },
+    "Surface Carrez du 5eme lot": {
+      "q1": 27.0,
+      "q3": 106.3,
+      "iqr": 79.3,
+      "lower_fence": -91.96,
+      "upper_fence": 225.26,
+      "outlier_count": 280,
+      "outlier_pct": 7.31,
+      "min": 0.4,
+      "max": 8188.0
+    },
+    "Nombre de lots": {
+      "q1": 0.0,
+      "q3": 1.0,
+      "iqr": 1.0,
+      "lower_fence": -1.5,
+      "upper_fence": 2.5,
+      "outlier_count": 181155,
+      "outlier_pct": 1.11,
+      "min": 0.0,
+      "max": 468.0
+    }
+  }
+}
